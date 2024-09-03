@@ -23,6 +23,6 @@
 	<pref name="SunShafts" type="int">1</pref>
 	<pref name="Tesselation" type="int">1</pref>
 	<pref name="VSync" type="int">0</pref>
-	<pref name="unity.player_session_count" type="string">MTU=</pref>
-	<pref name="unity.player_sessionid" type="string">ODcyNTA5MzEzNTc2OTQzMzAzNA==</pref>
+	<pref name="unity.player_session_count" type="string">MTY=</pref>
+	<pref name="unity.player_sessionid" type="string">MTEzMDIxOTEzNTUwNzUyMjk4OA==</pref>
 </unity_prefs>
