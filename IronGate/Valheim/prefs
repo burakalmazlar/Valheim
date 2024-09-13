@@ -4,7 +4,6 @@
 	<pref name="Bloom" type="int">1</pref>
 	<pref name="ChromaticAberration" type="int">1</pref>
 	<pref name="ClutterQuality" type="int">3</pref>
-	<pref name="ConsoleBindings" type="string"></pref>
 	<pref name="DOF" type="int">1</pref>
 	<pref name="DetailedParticleSystems" type="int">1</pref>
 	<pref name="DistantShadows" type="int">1</pref>
@@ -23,6 +22,6 @@
 	<pref name="SunShafts" type="int">1</pref>
 	<pref name="Tesselation" type="int">1</pref>
 	<pref name="VSync" type="int">0</pref>
-	<pref name="unity.player_session_count" type="string">MjQ=</pref>
-	<pref name="unity.player_sessionid" type="string">MTY5MDI0MjQwODcxODMzMjkyNA==</pref>
+	<pref name="unity.player_session_count" type="string">MjY=</pref>
+	<pref name="unity.player_sessionid" type="string">NzA0MjExODE0OTgxODU0ODk1Mw==</pref>
 </unity_prefs>
